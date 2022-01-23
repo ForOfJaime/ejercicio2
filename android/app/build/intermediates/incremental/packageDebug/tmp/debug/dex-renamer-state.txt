@@ -1,0 +1,16 @@
+#Sun Jan 23 23:20:02 CET 2022
+path.3=7/classes.dex
+path.2=14/classes.dex
+path.1=0/classes.dex
+renamed.4=classes5.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+base.4=/Users/sindynero/Documents/android/ejercicio2/android/app/build/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
+renamed.0=classes.dex
+base.3=/Users/sindynero/Documents/android/ejercicio2/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
+base.2=/Users/sindynero/Documents/android/ejercicio2/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.1=/Users/sindynero/Documents/android/ejercicio2/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.0=/Users/sindynero/Documents/android/ejercicio2/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+path.4=0/classes.dex
